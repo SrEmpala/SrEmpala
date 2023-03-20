@@ -7,7 +7,7 @@ Cursando Técnico em Desenvolvimento de Sistemas - SENAI/SC, Conclusão final em
 <div align="center">
     <a href="https://github.com/SrEmpala">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrEmpala&show_icons=true&theme=great-gatsby"/>
-    <img height="180em" src=""/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrEmpala&layout=compact&theme=great-gatsby"/>
 </div>
 
 ## Tecnologias a qual tenho contato:
