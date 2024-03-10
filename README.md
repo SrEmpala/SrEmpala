@@ -1,15 +1,3 @@
-### ⌨️ Prazer, me chamo Lucas Danker e sou apaixonado por criar e desenvolver!
-
-#
-
-Cursando Técnico em Desenvolvimento de Sistemas - SENAI/SC, Conclusão final em 2023.
-
-<!--<div align="center">
-    <a href="https://github.com/SrEmpala">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrEmpala&show_icons=true&theme=great-gatsby"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrEmpala&layout=compact&theme=great-gatsby"/>
-</div> -->
-
 ## Tecnologias a qual tenho contato:
 
 <div style="display: inline_block"><br>
